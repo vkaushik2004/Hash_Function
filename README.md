@@ -1,2 +1,2 @@
 # Hash_Function
-Repo for a Hash function Project for Data Structures and Algorithms Class
+Repo for a Hash function Project for Data Structures and Algorithms Class. The task for this project was to create a chaining hash function which places words into a hashmap. For my implementation, this meant taking the sum of the ASCII values of a word and then dividing that by the length of the table. For example, the word apple has the value of 27. In a 5 key table, 27%5 = 2. Therefore the word apple is placed into slot 2. 
